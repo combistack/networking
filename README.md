@@ -8,3 +8,8 @@ Modules are logicaly sorted so, that you look in a folder which data you have an
 
 If you have no data, just look in a folder with name of what data you need. 
 
+For example, if you have `ip` and need `hostname`, you can look inside `/ip/` and find `host.js` there. 
+
+If you need to get your `public` `ip` for example, you can look inside `/ip/` and `public.js` is there.
+
+
