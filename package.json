@@ -8,6 +8,6 @@
   "license": "MIT",
   "dependencies": {
     "request": "^2.79.0",
-    "underscore.string": "^3.3.4"
+    "underscore.string": "^3.3.6"
   }
 }
